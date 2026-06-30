@@ -1,0 +1,16 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Benji Einkauf Bot//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Einkauf & Kochplan
+BEGIN:VEVENT
+UID:einkauf-27-2026@benji-einkauf
+DTSTAMP:20260630T080000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Einkauf KW27 - Route & Liste
+DESCRIPTION:EINKAUFSLISTE KW27 2026 - Route: Lucy-Borchardt-Str. 14 -> Rewe -> Penny -> Aldi Nord\nGesamtkosten: ~79 EUR | Ersparnis: ~15 EUR\n\n=== STOPP 1: REWE (Altstadt/Borgfelde\, ca. 5 Min) ===\nANGEBOTE:\n[ ] Rinder-Gulasch 1\,2 kg - ANGEBOT 1\,79 EUR/100g (spart 6\,12 EUR) = 21\,48 EUR\n[ ] Rinder-Rouladen 400g (Samstag) - ANGEBOT 1\,79 EUR/100g = 7\,16 EUR\n[ ] Meggle Feine Butter 250g - ANGEBOT ~1\,79 EUR (spart 0\,70 EUR)\nSONSTIGES:\n[ ] Babyspinat 150g - ~1\,49 EUR\n[ ] Kapern Glas - ~1\,29 EUR\n[ ] Sojasauce 150ml - ~1\,29 EUR\n[ ] Rinderfond 500ml - ~1\,29 EUR\nStopp 1 gesamt: ~35\,79 EUR\n\n=== STOPP 2: PENNY (Hammerbrook\, ca. 10 Min) ===\nANGEBOTE:\n[ ] Haehnchen-Schenkel MUEHLENHOF ~1\,5kg - ANGEBOT 5\,99 EUR (spart 1\,00 EUR)\n[ ] XXL Raeucherlachs - ANGEBOT 4\,29 EUR (spart 1\,20 EUR)\n[ ] Bio Rapsoel 750ml - ANGEBOT 1\,49 EUR (spart 0\,70 EUR)\n[ ] Pfluecksalat 1 Beutel - ANGEBOT 0\,99 EUR\n[ ] Wassermelone ~3 kg - ANGEBOT 0\,99 EUR/kg (spart ~1\,50 EUR) = ~2\,97 EUR\n[ ] Himbeeren deutsch 125g - ANGEBOT 1\,99 EUR (spart 1\,00 EUR)\n[ ] Flache Pfirsiche 1-kg-Schale - ANGEBOT 1\,99 EUR (spart 1\,00 EUR)\nStopp 2 gesamt: ~19\,74 EUR\n\n=== STOPP 3: ALDI NORD (Hammerbrook/Borgfelde\, ca. 12 Min) ===\nANGEBOTE:\n[ ] Frische Nektarinen 500g - Frisch-Aktion ~1\,29 EUR (spart ~0\,50 EUR)\nSONSTIGES:\n[ ] Griech. Joghurt 500g - ~1\,49 EUR\n[ ] Magerquark 500g - ~0\,79 EUR\n[ ] Sahne 200ml - ~0\,99 EUR\n[ ] Eier 10er - ~2\,49 EUR\n[ ] Jasminreis 1 kg - ~1\,49 EUR\n[ ] Couscous 500g - ~1\,19 EUR\n[ ] Linguine/Spaghetti 500g - ~0\,89 EUR\n[ ] Kartoffelkloss-Mix 200g - ~1\,49 EUR\n[ ] Haferflocken 500g - ~0\,99 EUR\n[ ] Brokkoli 2 Koepfe - ~1\,40 EUR\n[ ] Paprika rot 3x - ~1\,50 EUR\n[ ] Zucchini 2x - ~1\,00 EUR\n[ ] Kirschtomaten 250g - ~1\,29 EUR\n[ ] Moehren 500g - ~0\,69 EUR\n[ ] Zwiebeln 1-kg-Netz - ~0\,79 EUR\n[ ] Knoblauch 1 Knolle - ~0\,49 EUR\n[ ] Ingwer ~40g - ~0\,50 EUR\n[ ] Zitronen 2x - ~0\,49 EUR\n[ ] Salatgurke 1x - ~0\,59 EUR\n[ ] Senf mittelscharf 200g - ~0\,79 EUR\n[ ] Tomatenmark Tube - ~0\,49 EUR\n[ ] Rotkohl Glas 580g - ~1\,29 EUR\n[ ] Honig 250g - ~1\,29 EUR\n[ ] Vollkornbrot 500g - ~1\,99 EUR\nStopp 3 gesamt: ~25\,49 EUR\n\nKOCHPLAN UEBERSICHT:\nSo 28.6: Rind-Wok Meal-Prep (So+Mo+Di)\nMi 01.7: Haehnchen-Schenkel Meal-Prep (Mi+Do)\nFr 03.7: Raeucherlachs-Pasta frisch\nSa 04.7: Rinder-Rouladen mit Rotkohl (Highlight!)\n\nGESAMT: ~79 EUR | ERSPARNIS: ~15\,38 EUR
+CATEGORIES:Einkauf
+END:VEVENT
+END:VCALENDAR
