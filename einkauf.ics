@@ -1,16 +1,43 @@
-﻿BEGIN:VCALENDAR
+BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Benji Einkauf Bot//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Einkauf & Kochplan
+X-WR-CALNAME:Einkauf und Kochplan
 BEGIN:VEVENT
 UID:einkauf-37-2026@benji-einkauf
 DTSTAMP:20260910T090000Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-SUMMARY:Einkauf KW37 - Kaufland + Aldi (Budget ~48 EUR\, Kochplan 13.-19.09.)
-DESCRIPTION:EINKAUF FREITAG 11.09.2026 -> KOCHPLAN 13.-19.09.2026\nNEU: Budget 40-50 EUR/Woche | Benji kohlenhydratarm\, Defne normal\nRoute: Lucy-Borchardt-Str. 14 -> Kaufland (Beim Strohhause 8) -> Aldi Nord (Lola-Rogge-Platz) | ~48 EUR\n\n=== STOPP 1: KAUFLAND Beim Strohhause 8 (ca. 8 Min) ===\n[ ] Rinderhackfleisch 1 kg - ANGEBOT 4\,99 EUR/500g = 9\,98 EUR\n[ ] Haehnchenbrustfilet 700g - ANGEBOT ~7\,99 EUR/kg = 5\,59 EUR\n[ ] Ganzes Haehnchen ~1\,5 kg (Samstag) = 5\,99 EUR\n[ ] Reis 500g (NUR Defne) = 0\,99 EUR\n[ ] Brokkoli/Pak Choi 900g = 2\,70 EUR\n[ ] Moehren 300g = 0\,59 EUR\n[ ] Kartoffeln 1 kg gesamt (NUR Defne) = 1\,29 EUR\n[ ] Zucchini/Paprika 400g (Ofengemuese) = 1\,20 EUR\n[ ] Kirschtomaten 250g = 1\,29 EUR\n[ ] Geriebener Gouda/Cheddar 150g = 1\,49 EUR\n[ ] Zwiebeln/Knoblauch/Ingwer/Fruehlingszwiebeln = 1\,20 EUR\n[ ] Zitronen 2x = 0\,49 EUR\n[ ] Eier 10er = 2\,49 EUR\n[ ] Butter 200g = 1\,49 EUR\n[ ] Sojasauce 150ml (falls nicht vorhanden) = 1\,29 EUR\n[ ] Honig 250g (falls nicht vorhanden) = 1\,29 EUR\nStopp 1: ~38\,95 EUR\n\n=== STOPP 2: ALDI NORD Lola-Rogge-Platz (ca. 10 Min) ===\n[ ] Paprika rot 3x - ANGEBOT ~1\,49 EUR\n[ ] Weihenstephan Rahmjoghurt 150g 2x - ANGEBOT 0\,45 EUR = 0\,90 EUR\n[ ] Baerenmarke H-Milch 1L - ANGEBOT 0\,88 EUR\n[ ] Griech. Joghurt 500g = 1\,49 EUR\n[ ] Magerquark 500g = 0\,79 EUR\n[ ] Haferflocken 500g (NUR Defne) = 0\,99 EUR\n[ ] Olivenoel/Rapsoel (falls nicht vorhanden) = 1\,99 EUR\n[ ] Obst der Saison ~500g = 1\,29 EUR\nStopp 2: ~9\,82 EUR\n\nGESAMT: ~48 EUR (Budget-Ziel 40-50 EUR)\n\nKOCHPLAN 13.-19.09. (Benji kohlenhydratarm / Defne normal):\nSo 13.09: Rinderhack-Pfanne - Benji extra Gemuese / Defne Reis (Meal-Prep So+Mo+Di)\nMi 16.09: Haehnchenbrust-Ofenpfanne - Benji Gemuese+Kaese / Defne Kartoffeln (Meal-Prep Mi+Do)\nFr 18.09: Gemuese-Kaese-Omelett (guenstiger Ersatz fuer Lachs, 15 Min)\nSa 19.09: Ganzes Ofenhaehnchen - Benji Ofengemuese / Defne Rosmarinkartoffeln (Highlight!)\n\nERSPARNIS: ~5\,55 EUR ggue. Normalpreisen
+SUMMARY:Einkauf KW37 - Kaufland + Aldi (Budget ~48 EUR)
+DESCRIPTION:EINKAUF FREITAG 11.09.2026 -> KOCHPLAN 13.-19.09.2026\nNEU: Bud
+ get 40-50 EUR/Woche | Benji kohlenhydratarm\, Defne normal\nRoute: Lucy-Bo
+ rchardt-Str. 14 -> Kaufland (Beim Strohhause 8) -> Aldi Nord (Lola-Rogge-P
+ latz) | ~48 EUR\n\n=== STOPP 1: KAUFLAND Beim Strohhause 8 (ca. 8 Min) ===
+ \n[ ] Rinderhackfleisch 1 kg - ANGEBOT 4\,99 EUR/500g = 9\,98 EUR\n[ ] Hae
+ hnchenbrustfilet 700g - ANGEBOT ~7\,99 EUR/kg = 5\,59 EUR\n[ ] Ganzes Haeh
+ nchen ~1\,5 kg (Samstag) = 5\,99 EUR\n[ ] Reis 500g (NUR Defne) = 0\,99 EU
+ R\n[ ] Brokkoli/Pak Choi 900g = 2\,70 EUR\n[ ] Moehren 300g = 0\,59 EUR\n[
+  ] Kartoffeln 1 kg gesamt (NUR Defne) = 1\,29 EUR\n[ ] Zucchini/Paprika 40
+ 0g (Ofengemuese) = 1\,20 EUR\n[ ] Kirschtomaten 250g = 1\,29 EUR\n[ ] Geri
+ ebener Gouda/Cheddar 150g = 1\,49 EUR\n[ ] Zwiebeln/Knoblauch/Ingwer/Frueh
+ lingszwiebeln = 1\,20 EUR\n[ ] Zitronen 2x = 0\,49 EUR\n[ ] Eier 10er = 2\
+ ,49 EUR\n[ ] Butter 200g = 1\,49 EUR\n[ ] Sojasauce 150ml (falls nicht vor
+ handen) = 1\,29 EUR\n[ ] Honig 250g (falls nicht vorhanden) = 1\,29 EUR\nS
+ topp 1: ~38\,95 EUR\n\n=== STOPP 2: ALDI NORD Lola-Rogge-Platz (ca. 10 Min
+ ) ===\n[ ] Paprika rot 3x - ANGEBOT ~1\,49 EUR\n[ ] Weihenstephan Rahmjogh
+ urt 150g 2x - ANGEBOT 0\,45 EUR = 0\,90 EUR\n[ ] Baerenmarke H-Milch 1L - 
+ ANGEBOT 0\,88 EUR\n[ ] Griech. Joghurt 500g = 1\,49 EUR\n[ ] Magerquark 50
+ 0g = 0\,79 EUR\n[ ] Haferflocken 500g (NUR Defne) = 0\,99 EUR\n[ ] Oliveno
+ el/Rapsoel (falls nicht vorhanden) = 1\,99 EUR\n[ ] Obst der Saison ~500g 
+ = 1\,29 EUR\nStopp 2: ~9\,82 EUR\n\nGESAMT: ~48 EUR (Budget-Ziel 40-50 EUR
+ )\n\nKOCHPLAN 13.-19.09. (Benji kohlenhydratarm / Defne normal):\nSo 13.09
+ : Rinderhack-Pfanne - Benji extra Gemuese / Defne Reis (Meal-Prep So+Mo+Di
+ )\nMi 16.09: Haehnchenbrust-Ofenpfanne - Benji Gemuese+Kaese / Defne Karto
+ ffeln (Meal-Prep Mi+Do)\nFr 18.09: Gemuese-Kaese-Omelett (guenstiger Ersat
+ z fuer Lachs, 15 Min)\nSa 19.09: Ganzes Ofenhaehnchen - Benji Ofengemuese 
+ / Defne Rosmarinkartoffeln (Highlight!)\n\nERSPARNIS: ~5\,55 EUR ggue. Nor
+ malpreisen
 CATEGORIES:Einkauf
 END:VEVENT
 END:VCALENDAR
