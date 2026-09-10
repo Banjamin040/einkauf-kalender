@@ -30,6 +30,21 @@ Rechne das in jedem Rezept explizit vor (z.B. "1,2 kg Rindfleisch gesamt = reich
 - **Freitag**: Frisch kochen
 - **Samstag**: Frisch kochen (aufwendigeres Rezept okay)
 
+**⚠️ WICHTIG – Der Wochenzyklus beginnt am Einkaufstag (Freitag), NICHT erst am Sonntag danach:**
+
+Automatisierung läuft Donnerstag → Einkauf ist am Freitag direkt danach → **an genau diesem Freitag UND dem darauffolgenden Samstag wird bereits mit den frisch gekauften Zutaten frisch gekocht** (Freitag-Abendessen + Samstag-Highlight, beide noch dieselbe Woche wie der Einkauf). Erst danach beginnt der Vorkoch-Rhythmus: der Sonntag NACH dem Einkaufs-Freitag startet die Sonntag-Vorkochsession (So+Mo+Di), danach Mittwoch-Vorkochsession (Mi+Do). Der volle Zyklus für einen Einkauf am Freitag [X] sieht also so aus:
+
+```
+Fr [X]      – Einkauf + frisch kochen (Rezept 1)
+Sa [X+1]    – frisch kochen, Highlight (Rezept 2)
+So [X+2]    – Vorkochen für So+Mo+Di (Rezept 3)
+Mo/Di       – essen von Rezept 3
+Mi [X+5]    – Vorkochen für Mi+Do (Rezept 4)
+Do [X+6]    – essen von Rezept 4 + neue Automatisierung läuft für den NÄCHSTEN Freitag
+```
+
+Nur Sonntag- und Mittwoch-Vorkochsessions brauchen die Vorlaufzeit "erst nach dem Einkauf", weil sie mehrtägige Mengen verarbeiten. Freitag und Samstag sind Einzelmahlzeiten mit tagesfrischen Zutaten – die gehören immer in dieselbe Woche wie der Einkauf, direkt am Einkaufstag bzw. dem Tag danach. **Nie** Freitag/Samstag versehentlich eine ganze Woche nach hinten verschieben.
+
 ---
 
 ## Schritt 1: Supermarkt-Angebote abrufen

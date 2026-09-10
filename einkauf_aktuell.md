@@ -1,10 +1,10 @@
-# 🛒 EINKAUF KW 37 → KOCHPLAN KW 38
+# 🛒 EINKAUF KW 37 → KOCHPLAN 11.–17.09.2026
 
 **Einkauf:** Freitag, 11.09.2026 – NUR 2 Stopps: Kaufland + Aldi Nord
-**Kochen:** Sonntag 13.09. – Samstag 19.09.2026
+**Kochen:** Freitag 11.09. – Donnerstag 17.09.2026 *(Freitag/Samstag direkt diese Woche, danach Vorkoch-Rhythmus)*
 *Benji & Defne | Lucy-Borchardt-Straße 14, HafenCity Hamburg*
 
-**💶 Budget diese Woche: ~48 € (Ziel 40–50 €)** – teure Extras (Fischtheken-Lachs, Zoodles, Feta, Rucola) rausgenommen, dafür günstigere Alternativen.
+**💶 Budget diese Woche: ~50 € (Ziel 40–50 €)** – teure Extras (Fischtheken-Lachs, Zoodles, Feta, Rucola) rausgenommen, dafür günstigere Alternativen.
 **🥑 Kohlenhydrat-Split bleibt:** Benji kohlenhydratarm bei jeder Mahlzeit, Defne normale Beilage.
 
 ---
@@ -23,7 +23,58 @@
 
 ---
 
-## 🍳 KOCHPLAN (13.09. – 19.09.2026)
+## 🍳 KOCHPLAN (11.09. – 17.09.2026)
+
+*Freitag & Samstag: frisch mit den heute gekauften Zutaten. Sonntag/Mittwoch: Vorkochen für die Folgetage.*
+
+---
+
+### FREITAG (11.09.) – Einkaufstag, frisch kochen, 1 Mahlzeit für 2 Personen
+
+🍳 **Gericht: Gemüse-Käse-Omelett**
+*Küche: einfach & günstig | Ersatz für Lachs (zu teuer fürs neue Budget)*
+
+**Zutaten für 2 Personen:**
+- 6 Eier (Benji 4, Defne 2 – bzw. je nach Hunger, restliche Eier von der Packung)
+- 250g Zucchini/Paprika (frisch gekauft, vom gemeinsamen Wochenvorrat)
+- 80g geriebener Käse
+- Etwas Butter/Öl zum Braten
+
+**Zubereitung:**
+1. Gemüse würfeln, in Pfanne mit etwas Öl andünsten (5 Min)
+2. Eier verquirlen, salzen, pfeffern, über das Gemüse gießen
+3. Bei mittlerer Hitze stocken lassen, Käse darüberstreuen
+4. Deckel drauf, 5 Min fertig garen; Benjis Portion mit mehr Gemüse/Ei, Defnes Portion normal
+
+⏱️ **Kochzeit:** 15 Min
+💰 **Kosten gesamt:** ~4 €
+📊 **Kalorien/Portion:** Benji ~420 kcal (~6g KH) | Defne ~340 kcal (~15g KH)
+💪 **Protein/Portion:** Benji ~30 g | Defne ~20 g
+
+---
+
+### SAMSTAG (12.09.) – Frisch kochen – Highlight der Woche!
+
+🍳 **Gericht: Ganzes Ofenhähnchen mit Kräuterbutter – Benji mit Ofengemüse, Defne mit Rosmarinkartoffeln**
+*Küche: Deutsch | Kaufland Fleischtheke*
+
+**Zutaten für 2 Personen:**
+- 1 ganzes Hähnchen ~1,5 kg (Kaufland)
+- 80g Butter, Petersilie, Knoblauch, Zitrone (Kräuterbutter)
+- **Nur Defne:** 300g Kartoffeln, Rosmarin, Olivenöl
+- **Nur Benji:** Ofengemüse (Zucchini/Paprika, restlicher Anteil vom Freitags-Einkauf, ~250g)
+
+**Zubereitung:**
+1. Kräuterbutter (Butter + Petersilie + Knoblauch + Salz) mixen, unter die Haut des Hähnchens streichen
+2. Hähnchen mit Zitrone füllen, salzen, pfeffern
+3. Defnes Kartoffeln vierteln, mit Öl + Rosmarin auf einem Blechteil um das Hähnchen legen; Benjis Ofengemüse auf separatem Blechteil
+4. Bei 200°C ca. 70 Min braten (Kerntemperatur prüfen), nach 30 Min wenden
+5. 10 Min ruhen lassen vor dem Tranchieren
+
+⏱️ **Kochzeit:** 90 Min
+💰 **Kosten gesamt:** ~8 €
+📊 **Kalorien/Portion:** Benji ~560 kcal (~10g KH) | Defne ~540 kcal (~40g KH)
+💪 **Protein/Portion:** Benji ~48 g | Defne ~30 g
 
 ---
 
@@ -104,58 +155,11 @@
 🥘 **Mittagessen:** Hähnchenbrust-Ofenpfanne *(Benji: Gemüse+Käse; Defne: mit Kartoffeln, vom Prep)*
 🍽️ **Abendessen:** Hähnchenbrust-Ofenpfanne *(gleiche Aufteilung)*
 
----
-
-### FREITAG (18.09.) – Frisch kochen, 1 Mahlzeit für 2 Personen
-
-🍳 **Gericht: Gemüse-Käse-Omelett**
-*Küche: einfach & günstig | Ersatz für Lachs (zu teuer fürs neue Budget)*
-
-**Zutaten für 2 Personen:**
-- 6 Eier (Benji 4, Defne 2 – bzw. je nach Hunger, restliche Eier von der Packung)
-- Reste von Zucchini/Paprika/Tomaten aus der Woche (~300g)
-- 80g geriebener Käse
-- Etwas Butter/Öl zum Braten
-
-**Zubereitung:**
-1. Gemüse würfeln, in Pfanne mit etwas Öl andünsten (5 Min)
-2. Eier verquirlen, salzen, pfeffern, über das Gemüse gießen
-3. Bei mittlerer Hitze stocken lassen, Käse darüberstreuen
-4. Deckel drauf, 5 Min fertig garen; Benjis Portion mit mehr Gemüse/Ei, Defnes Portion normal (ggf. mit Rest-Kartoffeln vom Mittwoch als Beilage, falls noch welche übrig sind)
-
-⏱️ **Kochzeit:** 15 Min
-💰 **Kosten gesamt:** ~4 € (nutzt v.a. bereits gekaufte Reste)
-📊 **Kalorien/Portion:** Benji ~420 kcal (~6g KH) | Defne ~340 kcal (~15g KH)
-💪 **Protein/Portion:** Benji ~30 g | Defne ~20 g
+*Heute läuft auch die nächste Automatisierung für KW 38 → neuer Einkauf am Freitag 18.09.*
 
 ---
 
-### SAMSTAG (19.09.) – Frisch kochen – Highlight der Woche!
-
-🍳 **Gericht: Ganzes Ofenhähnchen mit Kräuterbutter – Benji mit Ofengemüse, Defne mit Rosmarinkartoffeln**
-*Küche: Deutsch | Kaufland Fleischtheke*
-
-**Zutaten für 2 Personen:**
-- 1 ganzes Hähnchen ~1,5 kg (Kaufland)
-- 80g Butter, Petersilie, Knoblauch, Zitrone (Kräuterbutter)
-- **Nur Defne:** 300g Kartoffeln, Rosmarin, Olivenöl
-- **Nur Benji:** Ofengemüse (Zucchini/Paprika, restliche Menge aus der Woche, ~300g)
-
-**Zubereitung:**
-1. Kräuterbutter (Butter + Petersilie + Knoblauch + Salz) mixen, unter die Haut des Hähnchens streichen
-2. Hähnchen mit Zitrone füllen, salzen, pfeffern
-3. Defnes Kartoffeln vierteln, mit Öl + Rosmarin auf einem Blechteil um das Hähnchen legen; Benjis Ofengemüse auf separatem Blechteil
-4. Bei 200°C ca. 70 Min braten (Kerntemperatur prüfen), nach 30 Min wenden
-5. 10 Min ruhen lassen vor dem Tranchieren
-
-⏱️ **Kochzeit:** 90 Min
-💰 **Kosten gesamt:** ~8 €
-📊 **Kalorien/Portion:** Benji ~560 kcal (~10g KH) | Defne ~540 kcal (~40g KH)
-💪 **Protein/Portion:** Benji ~48 g | Defne ~30 g
-
----
-
-### FRÜHSTÜCK & SNACKS – ganze Woche (13.–19.09.)
+### FRÜHSTÜCK & SNACKS – ganze Woche (11.–17.09.)
 
 **Benji (kohlenhydratarm):** Griechischer Joghurt (200g, ungesüßt), kein Müsli/Haferflocken
 **Defne (normal):** Griechischer/Weihenstephan-Joghurt + Haferflocken + Obst
@@ -172,7 +176,7 @@
 
 ```
 Route: Lucy-Borchardt-Straße 14 → Kaufland (Beim Strohhause 8) → Aldi Nord (Lola-Rogge-Platz)
-Geschätzte Gesamtkosten: ~48 €
+Geschätzte Gesamtkosten: ~50 €
 ```
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
@@ -189,7 +193,7 @@ Geschätzte Gesamtkosten: ~48 €
 - [ ] Brokkoli / Pak Choi **900g** – **2,70 €**
 - [ ] Möhren **300g** – **0,59 €**
 - [ ] Kartoffeln **1 kg gesamt** (nur Defne, Mi+Sa) – **1,29 €**
-- [ ] Zucchini/Paprika **400g** (Ofengemüse) – **1,20 €**
+- [ ] Zucchini/Paprika **900g gesamt** (Fr-Omelett + Sa-Ofengemüse + Mi-Ofenpfanne) – **2,70 €**
 - [ ] Kirschtomaten **250g** – **1,29 €**
 - [ ] Geriebener Gouda/Cheddar **150g** – **1,49 €**
 - [ ] Zwiebeln, Knoblauch, Ingwer, Frühlingszwiebeln – **1,20 €**
@@ -199,7 +203,7 @@ Geschätzte Gesamtkosten: ~48 €
 - [ ] Sojasauce **150ml** (falls nicht vorhanden) – **1,29 €**
 - [ ] Honig **250g** (falls nicht vorhanden) – **1,29 €**
 
-**Teilsumme Stopp 1: ~38,95 €**
+**Teilsumme Stopp 1: ~40,45 €**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 📍 STOPP 2: ALDI NORD (Lola-Rogge-Platz, ca. 10 Min Fahrt)
@@ -227,10 +231,10 @@ Geschätzte Gesamtkosten: ~48 €
 2. **Aldi Nord danach** → günstige Milchprodukte + Rest
 
 ⚠️ Öl, Sojasauce, Honig, Rapsöl: **vor dem Losfahren prüfen, ob noch vorhanden** – das spart nochmal ~5 € vom Budget, falls schon im Schrank
-⚠️ Rinderhack & Hähnchenbrust kühl lagern bis zur Verarbeitung (So bzw. Mi)
+⚠️ Rinderhack & Hähnchenbrust kühl lagern bis zur Verarbeitung (So bzw. Mi) – ganzes Hähnchen kommt schon heute (Sa) auf den Tisch
 
 💰 **GESAMTERSPARNIS DIESE WOCHE: ~5,55 € gegenüber Normalpreisen**
 
 ---
 
-*Nächste Automatisierung: Donnerstag 17.09.2026 um 08:00 Uhr → neuer Plan für KW 39 (weiterhin 40–50 € Budget, Benji kohlenhydratarm/Defne normal)*
+*Nächste Automatisierung: Donnerstag 17.09.2026 um 08:00 Uhr → neuer Plan für KW 38 (Einkauf Freitag 18.09., Kochplan 18.–24.09., weiterhin 40–50 € Budget, Benji kohlenhydratarm/Defne normal)*
