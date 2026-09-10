@@ -4,7 +4,7 @@
 **Kochen:** Freitag 11.09. – Donnerstag 17.09.2026 *(Freitag/Samstag direkt diese Woche, danach Vorkoch-Rhythmus)*
 *Benji & Defne | Lucy-Borchardt-Straße 14, HafenCity Hamburg*
 
-**💶 Budget diese Woche: ~50 € (Ziel 40–50 €)** – teure Extras (Fischtheken-Lachs, Zoodles, Feta, Rucola) rausgenommen, dafür günstigere Alternativen.
+**💶 Budget diese Woche: ~51 € (Ziel 40–50 €, minimal drüber)** – teure Extras (Fischtheken-Lachs, Zoodles, Feta, Rucola) rausgenommen; ohne die "falls nicht vorhanden"-Pantry-Posten (Sojasauce, Honig, Tomatenmark, Gewürze, Öl) liegt es real eher bei ~46 €.
 **🥑 Kohlenhydrat-Split bleibt:** Benji kohlenhydratarm bei jeder Mahlzeit, Defne normale Beilage.
 
 ---
@@ -19,7 +19,7 @@
 | 4 | Weihenstephan Rahmjoghurt 150g | **Aldi Nord** | 0,45 € | ~0,69 € | −35 % |
 | 5 | Bärenmarke H-Milch 1L | **Aldi Nord** | 0,88 € | ~1,19 € | −26 % |
 
-⚠️ Fisch von der Fischtheke war mit ~2,49 €/100g zu teuer fürs neue Budget – Freitag daher jetzt ein günstiges Ei-Gericht statt Lachs.
+⚠️ Fisch von der Fischtheke war mit ~2,49 €/100g zu teuer fürs neue Budget.
 
 ---
 
@@ -31,25 +31,27 @@
 
 ### FREITAG (11.09.) – Einkaufstag, frisch kochen, 1 Mahlzeit für 2 Personen
 
-🍳 **Gericht: Gemüse-Käse-Omelett**
-*Küche: einfach & günstig | Ersatz für Lachs (zu teuer fürs neue Budget)*
+🍳 **Gericht: Würzige Rinderhack-Pfanne mit Paprika & Zwiebeln – Benji pur mit Salat, Defne im Tortilla-Wrap**
+*Küche: Tex-Mex-angehaucht (Abwechslung zu Sonntags asiatischem Hack) | nutzt einen Teil des Wochen-Rinderhacks*
 
 **Zutaten für 2 Personen:**
-- 6 Eier (Benji 4, Defne 2 – bzw. je nach Hunger, restliche Eier von der Packung)
-- 250g Zucchini/Paprika (frisch gekauft, vom gemeinsamen Wochenvorrat)
-- 80g geriebener Käse
-- Etwas Butter/Öl zum Braten
+- 250g Rinderhackfleisch (von den insgesamt gekauften 1 kg – Rest geht in die Sonntag-Prep)
+- 1 Paprika (vom Aldi-Angebot), 1 Zwiebel, 2 Knoblauchzehen
+- Paprikapulver, Kreuzkümmel, Chiliflocken, Salz, Pfeffer
+- 1 EL Tomatenmark
+- **Nur Benji:** 150g Blattsalat/Gemüse (vom Wochenvorrat) als Beilage statt Wrap
+- **Nur Defne:** 2 Tortilla-Wraps oder Fladenbrot
 
 **Zubereitung:**
-1. Gemüse würfeln, in Pfanne mit etwas Öl andünsten (5 Min)
-2. Eier verquirlen, salzen, pfeffern, über das Gemüse gießen
-3. Bei mittlerer Hitze stocken lassen, Käse darüberstreuen
-4. Deckel drauf, 5 Min fertig garen; Benjis Portion mit mehr Gemüse/Ei, Defnes Portion normal
+1. Zwiebel und Knoblauch fein würfeln, Paprika in Streifen schneiden
+2. Hack in Pfanne krümelig anbraten, Zwiebel und Knoblauch dazugeben
+3. Paprika mitbraten, mit Paprikapulver, Kreuzkümmel und Chili würzen, Tomatenmark einrühren, 5 Min köcheln
+4. Benjis Portion mit Salat auf dem Teller servieren; Defnes Portion in die Wraps füllen und rollen
 
-⏱️ **Kochzeit:** 15 Min
-💰 **Kosten gesamt:** ~4 €
-📊 **Kalorien/Portion:** Benji ~420 kcal (~6g KH) | Defne ~340 kcal (~15g KH)
-💪 **Protein/Portion:** Benji ~30 g | Defne ~20 g
+⏱️ **Kochzeit:** 20 Min
+💰 **Kosten gesamt:** ~5 €
+📊 **Kalorien/Portion:** Benji ~380 kcal (~8g KH) | Defne ~450 kcal (~40g KH)
+💪 **Protein/Portion:** Benji ~24 g | Defne ~16 g
 
 ---
 
@@ -62,7 +64,7 @@
 - 1 ganzes Hähnchen ~1,5 kg (Kaufland)
 - 80g Butter, Petersilie, Knoblauch, Zitrone (Kräuterbutter)
 - **Nur Defne:** 300g Kartoffeln, Rosmarin, Olivenöl
-- **Nur Benji:** Ofengemüse (Zucchini/Paprika, restlicher Anteil vom Freitags-Einkauf, ~250g)
+- **Nur Benji:** Ofengemüse (Zucchini/Paprika, ~250g)
 
 **Zubereitung:**
 1. Kräuterbutter (Butter + Petersilie + Knoblauch + Salz) mixen, unter die Haut des Hähnchens streichen
@@ -84,15 +86,15 @@
 *Küche: Asiatisch | Angebot: Kaufland Rinderhackfleisch 4,99 €/500g*
 
 📋 **Mengenrechnung (×3 vom Tages-Einzelrezept, 2 Pers., 6 Mahlzeiten):**
-- **1 kg Rinderhackfleisch gesamt** = 6 Mahlzeiten (Benji ~110g, Defne ~57g je Mahlzeit)
+- **750g Rinderhackfleisch** (Rest von den insgesamt 1 kg – 250g gingen bereits Freitag drauf) = 6 Mahlzeiten (Benji ~80g, Defne ~45g je Mahlzeit)
 - **Nur Defne:** 500g Reis roh (6× ~80g) – ihre Kohlenhydrat-Beilage
 - **Nur Benji:** keine Stärkebeilage, dafür deutlich größerer Anteil vom Gemüse (s.u.)
-- Gemeinsam: 900g Brokkoli/Pak Choi + Möhren (Benjis Anteil ca. doppelt so groß wie Defnes)
+- Gemeinsam: 750g Brokkoli/Pak Choi (150g davon bereits Freitag als Benjis Salat-Beilage verwendet) + Möhren (Benjis Anteil ca. doppelt so groß wie Defnes)
 
 **Zutaten gesamt:**
-- 1 kg Rinderhackfleisch (Kaufland, im Angebot)
+- 750g Rinderhackfleisch (Rest vom Kaufland-Einkauf, im Angebot)
 - 500g Reis (nur Defne)
-- 900g Brokkoli oder Pak Choi, 300g Möhren in Streifen
+- 750g Brokkoli oder Pak Choi (Rest nach Freitag), 300g Möhren in Streifen
 - 4 Knoblauchzehen, 30g Ingwer, 1 Bund Frühlingszwiebeln
 - Sauce: 6 EL Sojasauce + 2 EL Honig + 1 TL Sesamöl (falls vorhanden) + 150ml Wasser/Brühe
 
@@ -103,9 +105,9 @@
 4. In 6 Behälter portionieren: Defnes Boxen mit Reis, Benjis Boxen mit extra Gemüseanteil statt Reis
 
 ⏱️ **Kochzeit:** 40 Min
-💰 **Kosten gesamt:** ~13 €
-📊 **Kalorien/Portion:** Benji ~420 kcal (~10g KH) | Defne ~470 kcal (~55g KH)
-💪 **Protein/Portion:** Benji ~28 g | Defne ~16 g
+💰 **Kosten gesamt:** ~10 € (Rest vom Freitags-Einkauf, kein Neukauf nötig)
+📊 **Kalorien/Portion:** Benji ~380 kcal (~10g KH) | Defne ~455 kcal (~55g KH)
+💪 **Protein/Portion:** Benji ~22 g | Defne ~14 g
 
 ---
 
@@ -176,7 +178,7 @@
 
 ```
 Route: Lucy-Borchardt-Straße 14 → Kaufland (Beim Strohhause 8) → Aldi Nord (Lola-Rogge-Platz)
-Geschätzte Gesamtkosten: ~50 €
+Geschätzte Gesamtkosten: ~51 €
 ```
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
@@ -190,10 +192,10 @@ Geschätzte Gesamtkosten: ~50 €
 📋 **Sonstiges hier mitnehmen:**
 - [ ] Ganzes Hähnchen **~1,5 kg** (für Samstag) – **5,99 €**
 - [ ] Reis **500g** (nur Defne) – **0,99 €**
-- [ ] Brokkoli / Pak Choi **900g** – **2,70 €**
+- [ ] Brokkoli / Pak Choi **900g** (150g davon Freitag als Salat, Rest Sonntag-Prep) – **2,70 €**
 - [ ] Möhren **300g** – **0,59 €**
 - [ ] Kartoffeln **1 kg gesamt** (nur Defne, Mi+Sa) – **1,29 €**
-- [ ] Zucchini/Paprika **900g gesamt** (Fr-Omelett + Sa-Ofengemüse + Mi-Ofenpfanne) – **2,70 €**
+- [ ] Zucchini/Paprika **650g gesamt** (Sa-Ofengemüse + Mi-Ofenpfanne) – **1,95 €**
 - [ ] Kirschtomaten **250g** – **1,29 €**
 - [ ] Geriebener Gouda/Cheddar **150g** – **1,49 €**
 - [ ] Zwiebeln, Knoblauch, Ingwer, Frühlingszwiebeln – **1,20 €**
@@ -202,8 +204,11 @@ Geschätzte Gesamtkosten: ~50 €
 - [ ] Butter **200g** – **1,49 €**
 - [ ] Sojasauce **150ml** (falls nicht vorhanden) – **1,29 €**
 - [ ] Honig **250g** (falls nicht vorhanden) – **1,29 €**
+- [ ] Tomatenmark klein (falls nicht vorhanden) – **0,69 €**
+- [ ] Paprikapulver/Kreuzkümmel/Chiliflocken (falls nicht vorhanden) – **1,49 €**
+- [ ] Tortilla-Wraps oder Fladenbrot **1 Packung** (nur Defne) – **1,49 €**
 
-**Teilsumme Stopp 1: ~40,45 €**
+**Teilsumme Stopp 1: ~41,32 €**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 📍 STOPP 2: ALDI NORD (Lola-Rogge-Platz, ca. 10 Min Fahrt)
@@ -230,7 +235,7 @@ Geschätzte Gesamtkosten: ~50 €
 1. **Kaufland zuerst** → beide Fleisch-Angebote + Großteil der Liste
 2. **Aldi Nord danach** → günstige Milchprodukte + Rest
 
-⚠️ Öl, Sojasauce, Honig, Rapsöl: **vor dem Losfahren prüfen, ob noch vorhanden** – das spart nochmal ~5 € vom Budget, falls schon im Schrank
+⚠️ Öl, Sojasauce, Honig, Tomatenmark, Gewürze: **vor dem Losfahren prüfen, ob noch vorhanden** – das spart nochmal ~5 € vom Budget, falls schon im Schrank
 ⚠️ Rinderhack & Hähnchenbrust kühl lagern bis zur Verarbeitung (So bzw. Mi) – ganzes Hähnchen kommt schon heute (Sa) auf den Tisch
 
 💰 **GESAMTERSPARNIS DIESE WOCHE: ~5,55 € gegenüber Normalpreisen**
