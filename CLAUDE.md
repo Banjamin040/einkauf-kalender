@@ -165,6 +165,14 @@ git push origin main
 Repository: `https://github.com/Banjamin040/einkauf-kalender`
 (Beim allerersten Mal einmalig: `git remote add origin https://github.com/Banjamin040/einkauf-kalender.git`, falls noch nicht gesetzt)
 
+4. **Nach jedem Push den jsDelivr-CDN-Cache leeren** (sonst sieht das iPhone bis zu 24h lang die alte Version):
+
+```bash
+curl -s "https://purge.jsdelivr.net/gh/Banjamin040/einkauf-kalender@main/einkauf.ics"
+```
+
+**Wichtig, warum jsDelivr statt raw.githubusercontent.com:** `raw.githubusercontent.com` liefert den Header `Content-Type: text/plain` statt `text/calendar` – das führt bei iOS beim Hinzufügen des Kalenderabos oft zu „Accountinformationen konnten nicht überprüft werden". jsDelivr (`cdn.jsdelivr.net`) spiegelt dasselbe GitHub-Repo, liefert aber korrekt `Content-Type: text/calendar` und funktioniert zuverlässig als iOS-Kalenderabo-Quelle. Die Abo-URL in Schritt 6 ist deshalb die jsDelivr-URL, nicht die raw.githubusercontent.com-URL.
+
 ---
 
 ## Schritt 5: Automatisierung jeden Donnerstag (Windows-Aufgabenplanung)
@@ -193,10 +201,10 @@ echo Fertig - Liste erstellt und zu GitHub gepusht!
 
 ## Schritt 6: Kalender-Abo auf dem iPhone (einmalig einrichten)
 
-Sobald `einkauf.ics` einmal im Repository liegt, hat sie diese feste, sich automatisch aktualisierende URL:
+Sobald `einkauf.ics` einmal im Repository liegt, hat sie diese feste, sich automatisch aktualisierende URL (jsDelivr-Spiegel, NICHT raw.githubusercontent.com – siehe Begründung in Schritt 4):
 
 ```
-https://raw.githubusercontent.com/Banjamin040/einkauf-kalender/main/einkauf.ics
+https://cdn.jsdelivr.net/gh/Banjamin040/einkauf-kalender@main/einkauf.ics
 ```
 
 **Auf dem iPhone (Benji & Defne, je 1x):**
