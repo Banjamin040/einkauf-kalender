@@ -131,18 +131,27 @@ VERSION:2.0
 PRODID:-//Benji Einkauf Bot//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Einkauf & Kochplan
+X-WR-CALNAME:Einkauf und Kochplan
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:einkauf-[KW]-[JAHR]@benji-einkauf
 DTSTAMP:[aktueller Zeitstempel, Format YYYYMMDDTHHMMSSZ]
 DTSTART;VALUE=DATE:[FREITAG_DATUM, Format YYYYMMDD]
 DTEND;VALUE=DATE:[FREITAG_DATUM]
-SUMMARY:🛒 Einkauf KW[XX] – Route & Liste
+SUMMARY:Einkauf KW[XX] - Route & Liste
 DESCRIPTION:[Komplette nach Supermarkt sortierte Liste, Zeilenumbrüche als \n, Kommas als \, escaped]
 CATEGORIES:Einkauf
 END:VEVENT
 END:VCALENDAR
 ```
+
+**⚠️ KRITISCH – technische Stolperfallen, die Apple Calendar zum stillen Scheitern bringen (Datei parst nicht, Kalender bleibt leer, ohne Fehlermeldung):**
+1. **Kein BOM (Byte Order Mark):** Datei muss mit reinem UTF-8 OHNE BOM geschrieben werden. Die Datei muss buchstäblich mit `BEGIN:VCALENDAR` beginnen (erste Bytes `42 45 47 49 4e`). In PowerShell NICHT `[System.Text.Encoding]::UTF8` verwenden (fügt BOM hinzu), sondern `New-Object System.Text.UTF8Encoding $false`.
+2. **Zeilenfaltung (RFC 5545):** Jede Content-Zeile darf max. 75 Zeichen lang sein. Längere Zeilen (v.a. DESCRIPTION!) müssen umgebrochen werden: nach 75 Zeichen ein `\r\n` einfügen, gefolgt von einem einzelnen Leerzeichen, dann die nächsten bis zu 74 Zeichen usw. Eine 2000-Zeichen-Zeile am Stück lässt Apple die Datei/den Termin stillschweigend verwerfen.
+3. **Zeilenumbrüche:** Immer CRLF (`\r\n`) zwischen den Content-Zeilen, nicht nur LF.
+4. **Nach dem Push:** `raw.githubusercontent.com` cached über die Fastly-CDN oft ein paar Minuten – das ist normal und kein Fehler, wenn die Datei direkt danach noch alt aussieht.
+5. Bei jeder Erstellung die generierte Datei kurz selbst prüfen: keine BOM, keine Zeile > 75 Zeichen ungefaltet.
 
 3. Git-Befehle zum Pushen ins Repository:
 
